@@ -1,0 +1,231 @@
+ 
+.profile{
+    width:170px;
+    height:170px; 
+    padding-top:40px; 
+    padding-bottom: 40px;
+    /* margin-left: 5px; */
+}
+.icons-bar{
+    margin-left:67%;
+    padding-bottom: 20px; 
+    padding-top:10px;
+    color: rgb(161, 160, 160);
+}
+.flex-container{
+    display:flex;
+    padding-bottom: 50px;
+    flex-direction: column;
+    background-color: white;
+    width:80%;
+    margin-left:10%;
+    font-family: sans-serif;
+}
+.flex{
+    display: flex;
+    flex-direction: row;
+}
+.skills{
+    padding-top: 30%;
+    padding-left: 10%;
+}
+.skills2{
+    padding-top: 20%;
+    padding-left: 10%;
+}
+.hr{
+    margin-top:30px;
+    border-color: rgb(228,228,227,0.4);;
+}
+.flex-container2{
+    display: flex;
+    flex-direction: row;
+    margin-top:1%;
+    margin-left:5%;
+    margin-right:10%;
+}
+.flex2{
+    display: flex;
+    flex-direction: column;
+    margin-left: 7%;
+}
+.info{
+    padding-top:40px; 
+    padding-left:85px;
+    font-size:100%;
+    line-height: 1.8;
+}
+.name{
+    padding-top:70px; 
+    padding-left:40px;
+    display: inline-block;
+}
+.paragraph{
+    padding-top: 3%;
+    padding-left:5%; 
+    padding-right:5%; 
+    padding-bottom: 30px;
+    display: block;
+}
+
+.rectangle{
+    height:40px;
+    width:650px;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+}
+.circle{
+    height:22px;
+    width:22px;
+    border-radius: 100px;
+    text-align:center;
+    color:white;
+    background-color: rgb(82, 169, 240);
+}
+.circle2{
+    height:22px;
+    width:22px;
+    border-radius: 100px;
+    text-align:center;
+    color:white;
+    background-color: rgb(27, 156, 27);;
+}
+.row{
+    display: flex;
+    padding-top: 6%;
+    flex-direction: row;
+}
+.text{
+    color:white;
+    font-size: 25px;
+    padding-left:12px;
+    padding-top:6px;
+}
+.section{
+    padding-left: 5%;
+    padding-top:15%;
+    width: 650px;
+}
+.section2{
+    padding-left: 5%;
+    padding-top:6%;
+    width: 650px;
+}
+.description{
+    margin-top: 20%;
+    line-height: 1.8;
+}
+.icon{
+    background-color: rgb(82, 169, 240);    
+    width: 100%;
+    color: white; 
+    width:6%; 
+    text-align: center;    
+    display: inline-block;
+}
+.name2{
+    font-size: 200%; 
+    display:inline-block; 
+    font-weight: bold; 
+    white-space: nowrap;
+}
+.icon2{
+    background-color:rgb(27, 156, 27);    
+    width: 100%;
+    color: white; 
+    width:6%; 
+    text-align: center;    
+    display: inline-block;
+}
+.title{
+    padding-left:5px; 
+    font-size: 20px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color:rgb(48, 47, 47);
+    white-space: nowrap;;
+}
+.subtitle{
+    padding-left:24px; 
+    line-height:1.8;
+    font-size: 14px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color:rgb(170, 169, 169);
+}
+.year{
+    padding-left:355px;
+    font-size: 20px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color:rgb(170, 169, 169);
+    white-space: nowrap;
+}
+.rec{
+    width:250px;
+    height: 20px;
+    background-color: rgb(228,228,227);
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.blue{
+    width:220px;
+    height:20px;
+    background-color: rgb(37, 107, 165);
+    color:white;
+}
+.blue2{
+    width:195px;
+    height:20px;
+    background-color: rgb(82, 169, 240);
+    color:white;
+}
+.green{
+    width:227px;
+    height:20px;
+    background-color: rgb(27, 156, 27);
+    color:white;
+}
+.yellow{
+    width:195px;
+    height:20px;
+    background-color: rgb(247, 199, 41);
+    color:white;
+}
+.red{
+    width:170px;
+    height:20px;
+    background-color: rgb(214, 58, 19);
+    color:white;
+}
+.square{
+    width: 15px;
+    height: 15px;
+}
+.circles{
+    width:25px;
+    height:25px;
+    border-radius: 100px;
+    margin-left: 5px;
+    display:inline-block;
+}
+.white-circle{
+    width:23px;
+    height:23px;
+    border-radius: 100px;
+    margin-left: 5px;
+    background-color: white;
+    border: 0.5px solid rgb(128, 128, 128);
+}
+.txt{
+    font-size: 20px; 
+    line-height: 3; 
+    white-space: nowrap; 
+    font-weight: bold;
+}
+.text2{
+    padding-top:30px;
+    color:rgb(82, 169, 240); 
+    font-weight: bold;
+}
